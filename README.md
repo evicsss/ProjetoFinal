@@ -35,7 +35,7 @@ Este projeto é uma aplicação em React que permite gerenciar usuários, inclui
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/evicsss/gerenciador-de-usuarios.git
+   git clone https://github.com/evicsss/cadastro-de-usuarios.git
 
 2. Navegue até o diretório do projeto:
     ```bash  
